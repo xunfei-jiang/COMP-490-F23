@@ -1,3 +1,6 @@
+Insert a test line for integration of JIRA with Github.
+
+
 Add a new line to test log time.
 
 Insert a new line for testing integration with JIRA.
